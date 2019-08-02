@@ -17,7 +17,7 @@ public class ExceptionsDemo {
 		//    if the code is being ran.
 		
 		
-		try {
+		
 			
 			try {
 				testMethod1(3);
@@ -25,11 +25,8 @@ public class ExceptionsDemo {
 				// TODO Auto-generated catch block
 				//System.out.println("hi");
 			}
-		}
-		finally{
-			
-			
-		}
+		
+	
 	
 		
 		// 2. Now call testMethod1 with a value greater than 5. 
@@ -84,6 +81,10 @@ public class ExceptionsDemo {
 		
 		
 	}
+	
+	
+
+	
 	
 	
 }
